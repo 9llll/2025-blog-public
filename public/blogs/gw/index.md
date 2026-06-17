@@ -19,8 +19,6 @@
 
 > 📦 下载地址：[xy2虚拟机版本.zip](https://pan.baidu.com/s/1Q2EEt4JLMG0OLF3I-IQfCw?pwd=561j)  
 
-> 🔑 提取码：561j
-
 ⚠ 重要提示：
 
  本源码仅供技术研究、学习与交流使用
