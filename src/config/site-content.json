@@ -1,8 +1,8 @@
 {
 	"meta": {
 		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"description": "Ora 的个人博客，各类源码工具分享，开源项目收藏。",
+		"username": "Ora"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -45,7 +45,7 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/9llll",
 			"label": "Github",
 			"order": 3
 		},
@@ -59,7 +59,7 @@
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "golooo@qq.com",
 			"label": "",
 			"order": 1
 		}
