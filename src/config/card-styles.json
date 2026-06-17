@@ -1,35 +1,35 @@
 {
 	"artCard": {
-		"width": 244,
-		"height": 157,
+		"width": 365,
+		"height": 163,
 		"order": 3,
-		"offsetX": -122,
-		"offsetY": -303,
+		"offsetX": -197,
+		"offsetY": -306,
 		"enabled": true
 	},
 	"hiCard": {
 		"width": 364,
 		"height": 294,
 		"order": 1,
-		"offsetX": -180,
-		"offsetY": -127,
+		"offsetX": -195,
+		"offsetY": -126,
 		"enabled": true
 	},
 	"clockCard": {
-		"width": 232,
-		"height": 132,
+		"width": 219,
+		"height": 156,
 		"offset": 92,
 		"order": 4,
 		"offsetX": -463,
-		"offsetY": -288,
+		"offsetY": 150,
 		"enabled": true
 	},
 	"calendarCard": {
-		"width": 240,
-		"height": 201,
+		"width": 338,
+		"height": 206,
 		"order": 5,
-		"offsetX": 277,
-		"offsetY": 44,
+		"offsetX": 227,
+		"offsetY": -8,
 		"enabled": true
 	},
 	"musicCard": {
@@ -37,16 +37,16 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": -154,
-		"offsetY": 240,
+		"offsetX": 254,
+		"offsetY": 228,
 		"enabled": true
 	},
 	"socialButtons": {
 		"width": 244,
 		"height": 51,
 		"order": 6,
-		"offsetX": -163,
-		"offsetY": 176,
+		"offsetX": -146,
+		"offsetY": 191,
 		"enabled": true
 	},
 	"shareCard": {
@@ -58,35 +58,35 @@
 		"enabled": true
 	},
 	"articleCard": {
-		"width": 342,
-		"height": 353,
+		"width": 353,
+		"height": 267,
 		"order": 8,
-		"offsetX": 220,
-		"offsetY": -321,
+		"offsetX": 216,
+		"offsetY": -305,
 		"enabled": true
 	},
 	"writeButtons": {
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": 306,
-		"offsetY": 260,
+		"offsetX": 772,
+		"offsetY": -438,
 		"enabled": true
 	},
 	"navCard": {
-		"width": 280,
-		"height": 434,
+		"width": 230,
+		"height": 426,
 		"order": 2,
-		"offsetX": -495,
-		"offsetY": -142,
+		"offsetX": -469,
+		"offsetY": -304,
 		"enabled": true
 	},
 	"likePosition": {
 		"width": 54,
 		"height": 54,
 		"order": 8,
-		"offsetX": 100,
-		"offsetY": 173,
+		"offsetX": 171,
+		"offsetY": 235,
 		"enabled": true
 	},
 	"hatCard": {
@@ -98,11 +98,11 @@
 		"enabled": false
 	},
 	"beianCard": {
-		"width": 200,
-		"height": 60,
+		"width": 269,
+		"height": 50,
 		"order": 11,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -156,
+		"offsetY": 254,
 		"enabled": true
 	}
 }
