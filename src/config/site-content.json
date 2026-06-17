@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "YYsuni",
+		"title": "Ora's blog",
 		"description": "Ora 的个人博客，各类源码工具分享，开源项目收藏。",
 		"username": "Ora"
 	},
@@ -33,7 +33,7 @@
 			"url": "/images/art/1c7b726fe720679b.jpg"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -50,18 +50,18 @@
 			"order": 3
 		},
 		{
-			"id": "juejin",
-			"type": "wechat",
-			"value": "/images/social-buttons/e92b3e4234fb8ffc.jpg",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "golooo@qq.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1781676552972",
+			"type": "qq",
+			"value": "272292566",
+			"label": "",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
