@@ -1,10 +1,10 @@
 {
 	"artCard": {
-		"width": 365,
-		"height": 163,
+		"width": 418,
+		"height": 100,
 		"order": 3,
-		"offsetX": -197,
-		"offsetY": -306,
+		"offsetX": -206,
+		"offsetY": -287,
 		"enabled": true
 	},
 	"hiCard": {
@@ -13,40 +13,40 @@
 		"order": 1,
 		"offsetX": -195,
 		"offsetY": -126,
-		"enabled": true
+		"enabled": false
 	},
 	"clockCard": {
-		"width": 219,
-		"height": 156,
+		"width": 169,
+		"height": 169,
 		"offset": 92,
 		"order": 4,
-		"offsetX": -463,
-		"offsetY": 150,
+		"offsetX": 248,
+		"offsetY": -290,
 		"enabled": true
 	},
 	"calendarCard": {
-		"width": 338,
-		"height": 206,
+		"width": 174,
+		"height": 207,
 		"order": 5,
-		"offsetX": 227,
-		"offsetY": -8,
+		"offsetX": 249,
+		"offsetY": -89,
 		"enabled": true
 	},
 	"musicCard": {
-		"width": 293,
-		"height": 66,
+		"width": 187,
+		"height": 51,
 		"offset": 120,
 		"order": 6,
-		"offsetX": 254,
-		"offsetY": 228,
+		"offsetX": 252,
+		"offsetY": 160,
 		"enabled": true
 	},
 	"socialButtons": {
 		"width": 244,
 		"height": 51,
 		"order": 6,
-		"offsetX": -146,
-		"offsetY": 191,
+		"offsetX": -171,
+		"offsetY": 162,
 		"enabled": true
 	},
 	"shareCard": {
@@ -58,11 +58,11 @@
 		"enabled": false
 	},
 	"articleCard": {
-		"width": 353,
-		"height": 267,
+		"width": 414,
+		"height": 294,
 		"order": 8,
-		"offsetX": 216,
-		"offsetY": -305,
+		"offsetX": -202,
+		"offsetY": -168,
 		"enabled": true
 	},
 	"writeButtons": {
@@ -74,19 +74,19 @@
 		"enabled": true
 	},
 	"navCard": {
-		"width": 230,
-		"height": 426,
+		"width": 223,
+		"height": 420,
 		"order": 2,
-		"offsetX": -469,
-		"offsetY": -304,
+		"offsetX": -458,
+		"offsetY": -287,
 		"enabled": true
 	},
 	"likePosition": {
 		"width": 54,
 		"height": 54,
 		"order": 8,
-		"offsetX": 171,
-		"offsetY": 235,
+		"offsetX": 112,
+		"offsetY": 160,
 		"enabled": true
 	},
 	"hatCard": {
@@ -98,11 +98,11 @@
 		"enabled": false
 	},
 	"beianCard": {
-		"width": 269,
+		"width": 199,
 		"height": 50,
 		"order": 11,
-		"offsetX": -156,
-		"offsetY": 254,
+		"offsetX": -452,
+		"offsetY": 159,
 		"enabled": true
 	}
 }
