@@ -11,9 +11,18 @@
 		"id": "1781685400239-67233df71e4ec",
 		"uploadedAt": "2026-06-17T08:36:40.239Z",
 		"images": [
-			"/images/pictures/5247a5d4aa383dbf.png",
-			"/images/pictures/a5b720efaf473094.png",
-			"/images/pictures/a41d198459ba01c6.png"
+			"blob:https://www.xug.me/14701613-31d0-4a56-9e9c-3d3f793728b6",
+			"blob:https://www.xug.me/22a4a126-4548-4188-8ec5-30cb69d4a529",
+			"blob:https://www.xug.me/f9c710f2-d033-4f05-b284-11ca0aeb1520"
+		]
+	},
+	{
+		"id": "1781685428037-c9b4ea71afaff",
+		"uploadedAt": "2026-06-17T08:37:08.037Z",
+		"images": [
+			"/images/pictures/2d38d577948611a0.png",
+			"/images/pictures/bdae849ae2abaea6.png",
+			"/images/pictures/eabb9f1ff9d8c576.png"
 		]
 	}
 ]
