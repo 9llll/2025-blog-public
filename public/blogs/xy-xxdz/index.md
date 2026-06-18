@@ -2,7 +2,7 @@
 
 ### 最新整理Linux手工服务端+管理后台+CDK授权后台+安卓苹果双端
 
-### 下载地址：[缥缈西游之小熊.zip](https://pan.baidu.com/s/1cwReoLRHsPZYPw-pZt9quQ?pwd=9jd4)  
+📦下载地址：[缥缈西游之小熊.zip](https://pan.baidu.com/s/1cwReoLRHsPZYPw-pZt9quQ?pwd=9jd4)  
 
 ![](/blogs/xy-xxdz/58ba9d0eac991170.png)
 
